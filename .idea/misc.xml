@@ -3,20 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/My Atma documents/PBP/mbengkel/app/src/main/res/drawable/bottom_nav_colors.xml" value="0.159" />
-        <entry key="..\:/My Atma documents/PBP/mbengkel/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.159" />
-        <entry key="..\:/My Atma documents/PBP/mbengkel/app/src/main/res/layout/activity_home.xml" value="0.1" />
-        <entry key="..\:/My Atma documents/PBP/mbengkel/app/src/main/res/layout/activity_main.xml" value="0.22" />
-        <entry key="..\:/My Atma documents/PBP/mbengkel/app/src/main/res/layout/activity_register.xml" value="0.184375" />
-        <entry key="..\:/My Atma documents/PBP/mbengkel/app/src/main/res/layout/fragment_book_service.xml" value="0.11639492753623189" />
-        <entry key="..\:/My Atma documents/PBP/mbengkel/app/src/main/res/layout/fragment_search.xml" value="0.11639492753623189" />
-        <entry key="..\:/My Atma documents/PBP/mbengkel/app/src/main/res/menu/bottom_nav_menu.xml" value="0.18333333333333332" />
         <entry key="..\:/PBP_Apps/LoginMbengkel-master/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/PBP_Apps/LoginMbengkel-master/app/src/main/res/layout/activity_register.xml" value="0.22" />
         <entry key="..\:/kuliah/smt 5/PBP/Proyek UGD/Login Mbengkel/app/src/main/res/drawable-v24/ic_lock_24.xml" value="0.1" />
         <entry key="..\:/kuliah/smt 5/PBP/Proyek UGD/Login Mbengkel/app/src/main/res/layout/activity_home.xml" value="0.25" />
         <entry key="..\:/kuliah/smt 5/PBP/Proyek UGD/Login Mbengkel/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/kuliah/smt 5/PBP/Proyek UGD/Login Mbengkel/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/kuliah/smt 5/PBP/proyek/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/kuliah/smt 5/PBP/proyek/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/kuliah/smt 5/PBP/proyek/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/kuliah/smt 5/PBP/proyek/app/src/main/res/layout/fragment_bengkel.xml" value="0.536" />
+        <entry key="..\:/kuliah/smt 5/PBP/proyek/app/src/main/res/layout/fragment_book_service.xml" value="0.10989583333333333" />
+        <entry key="..\:/kuliah/smt 5/PBP/proyek/app/src/main/res/layout/fragment_pesan.xml" value="0.1" />
+        <entry key="..\:/kuliah/smt 5/PBP/proyek/app/src/main/res/layout/fragment_search.xml" value="0.10989583333333333" />
+        <entry key="..\:/kuliah/smt 5/PBP/proyek/app/src/main/res/layout/layout.xml" value="0.1" />
+        <entry key="..\:/kuliah/smt 5/PBP/proyek/app/src/main/res/layout/rv_item_bengkel.xml" value="0.136" />
+        <entry key="..\:/kuliah/smt 5/PBP/proyek/app/src/main/res/layout/rv_item_dosen.xml" value="0.11666666666666667" />
+        <entry key="..\:/kuliah/smt 5/PBP/proyek/app/src/main/res/layout/rv_item_pesan.xml" value="0.1" />
+        <entry key="..\:/kuliah/smt 5/PBP/proyek/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.1" />
+        <entry key="..\:/kuliah/smt 5/PBP/proyek/app/src/main/res/menu/menu.xml" value="0.1" />
       </map>
     </option>
   </component>

@@ -3,13 +3,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".BookServiceFragment">
+    tools:context=".FragmenPesan">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:gravity="center"
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_pesan"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="booking" />
+        tools:listitem="@layout/rv_item_pesan"/>
 
 </FrameLayout>
