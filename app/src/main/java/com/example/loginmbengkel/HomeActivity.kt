@@ -8,12 +8,23 @@ import android.view.MenuInflater
 import android.view.MenuItem
 import androidx.appcompat.app.AlertDialog
 import androidx.fragment.app.Fragment
+import androidx.navigation.NavController
+import androidx.navigation.fragment.NavHostFragment
+import androidx.navigation.ui.setupActionBarWithNavController
+import com.google.android.material.bottomnavigation.BottomNavigationView
 
 class HomeActivity : AppCompatActivity() {
+
+    private lateinit var navController: NavController
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_home)
 
+        val navHostFragment = supportFragmentManager.findFragmentById(R.id.homeContainer) as NavHostFragment
+        navController = navHostFragment.navController
+        val bottomNavigationView = findViewById<BottomNavigationView>(R.id.bottomNavigationView)
+        setupActionBarWithNavController(bottomNavigationView)
 //        changeFragment(FragmentMahasiswa())
     }
 
