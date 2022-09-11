@@ -16,17 +16,8 @@ class MainActivity : AppCompatActivity() {
     private lateinit var inputPassword: TextInputLayout
     private lateinit var mainLayout: ConstraintLayout
 
-    private lateinit var username : TextView
-    private lateinit var password : TextView
-    private lateinit var email : TextView
-    private lateinit var tanggalLahir : TextView
-    private lateinit var nomorTelepon : TextView
-
     lateinit var vUsername : String
     lateinit var vPassword : String
-    lateinit var vEmail : String
-    lateinit var vTanggalLahir : String
-    lateinit var vNomorTelepon : String
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

@@ -82,8 +82,4 @@ class RegisterActivity  : AppCompatActivity() {
 
         nomorTelepon.setText(vNomorTelepon)
     }
-
-    private fun back() {
-
-    }
 }
